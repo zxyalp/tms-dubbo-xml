@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tms-dubbo-xml.iml" filepath="$PROJECT_DIR$/tms-dubbo-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-dubbo-xml-client/tms-dubbo-xml-client.iml" filepath="$PROJECT_DIR$/tms-dubbo-xml-client/tms-dubbo-xml-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-dubbo-xml-consumer/tms-dubbo-xml-consumer.iml" filepath="$PROJECT_DIR$/tms-dubbo-xml-consumer/tms-dubbo-xml-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-dubbo-xml-provider/tms-dubbo-xml-provider.iml" filepath="$PROJECT_DIR$/tms-dubbo-xml-provider/tms-dubbo-xml-provider.iml" />
+    </modules>
+  </component>
+</project>

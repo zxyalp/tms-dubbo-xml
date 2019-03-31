@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tms-dubbo-xml" />
+        <module name="tms-dubbo-xml-client" />
+        <module name="tms-dubbo-xml-consumer" />
+        <module name="tms-dubbo-xml-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tms-dubbo-xml" target="1.8" />
+      <module name="tms-dubbo-xml-client" target="1.8" />
+      <module name="tms-dubbo-xml-consumer" target="1.8" />
+      <module name="tms-dubbo-xml-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tms-dubbo-xml" options="-parameters" />
+      <module name="tms-dubbo-xml-client" options="-parameters" />
+      <module name="tms-dubbo-xml-consumer" options="-parameters" />
+      <module name="tms-dubbo-xml-provider" options="-parameters" />
+    </option>
+  </component>
+</project>
